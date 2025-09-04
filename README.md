@@ -26,4 +26,4 @@ var temp1 = document.querySelector('[aria-label="타임라인: 팔로잉"]').fir
 ```js
 var temp1 = document.querySelector('[aria-label="타임라인: 팔로워"]').firstChild; window.onscroll = function() {for (var i of temp1.children) {if (i.innerHTML.includes('언팔로우')) {i.style.opacity = '0';}}}
 ```
-3. 스크롤할때 마다 팔로잉 리스트가 업데이트가 되어, 맞팔된 유저는 투명처리, 맞팔이 되지 않은 유저는 표시됩니다.
+3. 스크롤할때 마다 팔로워 리스트가 업데이트가 되어, 맞팔된 유저는 투명처리, 맞팔이 되지 않은 유저만 표시됩니다.
