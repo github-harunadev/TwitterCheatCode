@@ -3,8 +3,11 @@
 
 # 경고/Warning
 이 레포지토리 내 코드를 디버깅 콘솔창에서 실행함으로써 생기는 모든 문제에 대해 저(harunadev)는 책임지지 않습니다. 한국어 트위터/X에서만 사용 가능합니다.
+
 모든 코드는 직접 작성되었으며, 100% 로컬에서 실행되며, 온라인으로 개인정보나 기타 데이터를 전송하지 않습니다. 코드를 실행하는것이 확실치 않다면 실행하지 마세요.
+
 코드 분석이 필요하다면, ChatGPT나 Copilot등에게 코드 분석을 의뢰하세요.
+
 I (harunadev) do not take any reponsibility of any problems occured by running the code on your browser. All codes in this are built to run on Korean Twitter/X page. Sorry English Users TT
 
 ## 팔로잉 창에서 맞팔 필터링하기
