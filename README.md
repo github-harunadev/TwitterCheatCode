@@ -6,6 +6,8 @@
 
 모든 코드는 직접 작성되었으며, 100% 로컬에서 실행되며, 온라인으로 개인정보나 기타 데이터를 전송하지 않습니다. 코드를 실행하는것이 확실치 않다면 실행하지 마세요.
 
+코드는 소리소문없이 작동 불가가 될 수 있습니다 _(예: 트위터가 조용히 웹 레이아웃을 변경하는 등)_. 이 경우가 발생하면 Issues에서 문제를 제보해주세요.
+
 코드 분석이 필요하다면, ChatGPT나 Copilot등에게 코드 분석을 의뢰하세요.
 
 I (harunadev) do not take any reponsibility of any problems occured by running the code on your browser. All codes in this are built to run on Korean Twitter/X page. Sorry English Users TT
